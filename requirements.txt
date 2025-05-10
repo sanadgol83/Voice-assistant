@@ -1,0 +1,26 @@
+# Speech Recognition and Synthesis
+SpeechRecognition
+PyAudio
+pyttsx3
+
+# Audio/Video Playback and Control
+playsound
+pycaw
+comtypes # Dependency for pycaw on Windows
+
+# GUI and Image Processing
+Pillow
+opencv-python
+tkinter # Built-in, but good to be aware of for system dependencies if any
+
+# Web and Data
+geopy
+wikipedia
+
+# Hardware Control
+screen-brightness-control
+PyAutoGUI
+
+# Numerical and AI/ML
+numpy
+mediapipe
